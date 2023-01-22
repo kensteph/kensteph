@@ -1,6 +1,5 @@
-## Hi, I'm Kender Romain
-<p align="center"><img src="https://user-images.githubusercontent.com/39686386/213933244-a9d89b8b-1c48-43de-8c23-b7fcbccf6123.gif"</p>
-
+## Hi, I'm 
+<p align="center"><img src="https://user-images.githubusercontent.com/39686386/213936505-e8d91f5d-487c-4be3-8ed2-5a992f54b069.png"</p>
 ```javaScript
 class KenSteph{
 
