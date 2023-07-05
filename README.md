@@ -13,7 +13,7 @@ class KenSteph{
         this.web = 'https://kender-romain.netlify.app/';
         this.skills = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Bootstrap', 'TailWind'],
-            'backend': ['Rails', 'NodeJS', 'PHP'],
+            'backend': ['Ruby on Rails', 'NodeJS', 'PHP'],
             'database': ['Oracle', 'PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['GitHub Actions', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'Linters'],
