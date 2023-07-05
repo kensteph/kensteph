@@ -11,12 +11,11 @@ class KenSteph{
         this.username = 'kensteph';
         this.name = 'Kender Romain';
         this.web = 'https://kender-romain.netlify.app/';
-        this.twitter = '@RomainKender';
         this.skills = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap', 'TailWind'],
-            'backend': ['NodeJS', 'PHP'],
-            'database': ['Oracle','PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['GitHub Actions', 'Heroku'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Bootstrap', 'TailWind'],
+            'backend': ['Rails', 'NodeJS', 'PHP'],
+            'database': ['Oracle', 'PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB'],
+            'DevOps': ['GitHub Actions', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'Linters'],
         };
         
@@ -33,6 +32,5 @@ class KenSteph{
 ```
 ## Get in touch
 
-- Twitter: https://twitter.com/RomainKender
-- Linkedin: https://www.linkedin.com/in/kender-romain8788/
+- Linkedin: https://www.linkedin.com/in/kenderromain/
 - Personal Site: https://kender-romain.netlify.app/
