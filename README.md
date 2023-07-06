@@ -1,7 +1,7 @@
 ## Hi, I'm
 <p align="center"><img src="https://user-images.githubusercontent.com/39686386/221956723-8129d8b9-855d-46aa-b8d6-cd6d5fdc9026.png"</p>
  
-## Open for new opportunities!
+## Open to new opportunities!
  
  
 ```javaScript
